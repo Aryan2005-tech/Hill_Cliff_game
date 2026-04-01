@@ -1,1 +1,1 @@
-Solving Hill cliff usin Sarsa and Q-learning
+Solving Hill cliff using Sarsa and Q-learning
